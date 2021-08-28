@@ -1,7 +1,9 @@
-## Contextual Inter-modal Attention for Multi-modal Sentiment Analysis
+# 🔥 🔥 🔥 Notice: This repository will no longer be maintained. Instead, we are are moving all our multimodal works to this new centralized repository: [https://github.com/declare-lab/multimodal-deep-learning](https://github.com/declare-lab/multimodal-deep-learning). 
+
+# Contextual Inter-modal Attention for Multi-modal Sentiment Analysis
 Code for the paper [Contextual Inter-modal Attention for Multi-modal Sentiment Analysis](http://www.aclweb.org/anthology/D18-1382) (EMNLP 2018).
 
-### Dataset
+## Dataset
 We provide results on the [MOSI dataset](https://arxiv.org/pdf/1606.06259.pdf).  
 Please cite the creators.
 
@@ -11,14 +13,14 @@ Keras (Tensorflow backend)  2.2.4
 Scikit-learn 0.20.0  
 
 
-### Experiments
+## Experiments
 
 ```
 python create_data.py
 python trimodal_attention_models.py
 ```
 
-### Citation 
+## Citation 
 
 If you use this code in your research, please cite our work using: 
 ```
@@ -31,10 +33,10 @@ If you use this code in your research, please cite our work using:
 }
 ```
 
-### Credits
+## Credits
 
 Some of the functionalities in this repo are borrowed from https://github.com/soujanyaporia/contextual-utterance-level-multimodal-sentiment-analysis
 
-### Authors
+## Authors
 
-[Deepanway Ghosal](https://github.com/deepanwayx), [Soujanya Poria](https://github.com/soujanyaporia)
+[Deepanway Ghosal](https://github.com/deepanwayx)
